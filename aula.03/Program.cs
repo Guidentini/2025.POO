@@ -6,7 +6,7 @@
 Console.WriteLine("Hello, World!");
 
 
-Televisao tvsala = new Televisao (55);
-
+Televisao tvsala = new Televisao (25);
 Console.WriteLine($"o tamanho da tv e: {tvsala.Tamanho} polegadas");
+
 
